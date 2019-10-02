@@ -4,9 +4,9 @@ Data analysis using common Machine Learning algorithms such as Decision Tree Cla
 
 ## Getting Started
 
-The data was taken from Kaggle, an online community of data scientists and machine learners, owned by Google LLC.
+The dataset was taken from Kaggle, an online community of data scientists and machine learners, owned by Google LLC.
 link to the dataset will be provided in the acknowledgement.
-To be able to run and modify the project, please make sure have jupyter notebook, python 3, pandas, numpy and sklearn (scikit-learn). These can be done either through pip or conda. See Installing for more detailed information and links.
+To be able to run and modify the project, please make sure you have jupyter notebook, python 3, pandas, numpy and sklearn (scikit-learn). These can be done either through pip or conda. See Installing for more detailed information and links.
 
 ### Prerequisites
 
@@ -22,7 +22,7 @@ Go to terminal
 conda --version
 ```
 
-If the code above returns some version you are good to go otherwise follow the link below to install anaconda:
+If the code above returns some version you are good to go, otherwise follow the link below to install anaconda:
 https://www.anaconda.com/distribution/
 
 After the anaconda installation is complete, open the terminal and follow with the required packages installation
@@ -61,7 +61,7 @@ And finally open the jupyter notebook by just typing
 jupyter notebook
 ```
 
-You will see the current folder being opened in the browser, navigate to the gender_voice_recognition.ipynb file and open it
+You will see the current folder being opened in the browser, navigate to the gender_voice_recognition.ipynb file and open it.
 Click play button to execute each cell of code or comments
 
 ## License
