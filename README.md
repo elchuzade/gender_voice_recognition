@@ -4,9 +4,7 @@ Data analysis using common Machine Learning algorithms such as Decision Tree Cla
 
 ## Getting Started
 
-The dataset was taken from Kaggle, an online community of data scientists and machine learners, owned by Google LLC.
-link to the dataset will be provided in the acknowledgement.
-To be able to run and modify the project, please make sure you have jupyter notebook, python 3, pandas, numpy and sklearn (scikit-learn). These can be done either through pip or conda. See Installing for more detailed information and links.
+The dataset was taken from Kaggle, an online community of data scientists and machine learners, owned by Google LLC. Link to the dataset will be provided in the acknowledgement. To be able to run and modify the project, please make sure you have jupyter notebook, python 3, pandas, numpy and sklearn (scikit-learn). These can be done either through pip or conda. See Installing for more detailed information and links.
 
 ### Prerequisites
 
